@@ -86,7 +86,7 @@ body .main-container {
   height: 200px;
   border-radius: 4px;
   position: relative;
-  /*  transition: all 1s ease; */
+  transition: all 1s ease;
 }
 .chart__bar--label {
   background-color: hsl(25, 47%, 15%);
